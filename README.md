@@ -281,7 +281,7 @@ leica-pov-shutter-tester/
 
 ## License
 
-This project is released under the MIT License. Feel free to fork, modify, or incorporate it into your own workflow. Any contributions, bug fixes, or suggestions are greatly appreciated—please open a Pull Request or file an Issue on GitHub.
+This project is released under the GNU License. Feel free to fork, modify, or incorporate it into your own workflow. Any contributions, bug fixes, or suggestions are greatly appreciated—please open a Pull Request or file an Issue on GitHub.
 
 ---
 
